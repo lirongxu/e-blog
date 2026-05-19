@@ -11,8 +11,8 @@ SITE_DESCRIPTION = "A personal blog on Cloudflare"
 [[d1_databases]]
 binding = "DB"
 database_name = "e-blog-db"
-database_id = "placeholder-replace-after-creation"
+database_id = "47d3c96d-49af-4362-b797-03d91e161bc9"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "placeholder-replace-after-creation"
+id = "6c1ac56c916443749ba9a43ed50613b1"
