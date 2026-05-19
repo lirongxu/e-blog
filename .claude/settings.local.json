@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:immarcus.com)",
+      "WebSearch",
+      "Bash(curl -sL https://immarcus.com)",
+      "Bash(curl -sL https://immarcus.com/about)",
+      "Bash(curl -sL https://immarcus.com/blog/)"
+    ]
+  }
+}
